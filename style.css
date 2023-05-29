@@ -1,0 +1,70 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.theme-list {
+    display: flex;
+    align-items: center;
+}
+
+.theme-list li {
+    margin-left: auto;
+}
+
+#accordions {
+    max-width: 1000px;
+    /* Cambia el valor según el ancho deseado */
+    margin: 0 auto;
+}
+
+#links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 290px;
+}
+
+
+.social-links img {
+    height: 50px;
+    width: 50px;
+}
+
+#button-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-containers {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+
+}
+
+.button {
+    background-color: #008CBC;
+    border: none;
+    border-radius: 0.25rem;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #333;
+    color: #fff;
+}

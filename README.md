@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">  My personal website project </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://picocss.com/">
+    <img src="https://picocss.com/img/schema.jpg" width="64" height="64">
+  </a>
+</p>
 
-## Available Scripts
+<h3 align="center">Pico CSS</h3>
 
-In the project directory, you can run:
+<p align="center">
+  <strong>Minimal CSS Framework for semantic HTML</strong><br>
+  Elegant styles for all native HTML elements without <code>.classes</code> and dark mode automatically enabled.<br><br>
+  <a href="https://picocss.com/#examples">Examples</a> ·
+  <a href="https://picocss.com/docs/">Documentation</a>
+</p>
 
-### `npm start`
+## Pico CSS
+[![Standard gzipped CSS](https://img.badgesize.io/picocss/pico/master/css/pico.min.css?compression=gzip&color=1095c1&label=Standard%20CSS)](https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css)
+[![Classless gzipped CSS](https://img.badgesize.io/picocss/pico/master/css/pico.classless.min.css?compression=gzip&color=1095c1&label=Classless%20CSS)](https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.classless.min.css)
+[![Github release](https://img.shields.io/github/v/release/picocss/pico?color=1095c1&logo=github&logoColor=white)](https://github.com/picocss/pico/releases/latest)
+[![npm version](https://img.shields.io/npm/v/@picocss/pico?color=1095c1)](https://www.npmjs.com/package/@picocss/pico)
+[![License](https://img.shields.io/badge/license-MIT-%231095c1)](https://github.com/picocss/pico/blob/master/LICENSE.md)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/picocss.svg?style=social&label=Follow%20%40picocss)](https://twitter.com/picocss)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This is my personal website project as a mid-beginner web developer.
 
-### `npm test`
+Here you can find some information about myself, my background, and what I'm currently working on.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This site was made for educational purposes only.
 
-### `npm run build`
+## Instalation & Template
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In case that you want to read this files on your local computer or you just want to use this repository as a template for your personal website, here are the steps to do it:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. In your local shell run:
+```bash
+$ git clone https://github.com/VicenteLavagnino/VicenteLavagnino.github.io
+```
+2. Abre el archivo index.html en tu navegador.
+3. Explora el contenido de la página web y observa cómo se utiliza Pico.css para estilizar el contenido.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Uso
 
-### `npm run eject`
+Aquí puedes proporcionar información adicional sobre cómo utilizar tu proyecto y cualquier otra información que consideres importante.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contribuciones
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Si deseas contribuir a este proyecto, sigue estos pasos:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Haz un fork de este repositorio.
+2. Realiza tus cambios en tu fork.
+3. Envía un pull request con tus cambios.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). See the LICENSE.md file for more information on how to use this code.
